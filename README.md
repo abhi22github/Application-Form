@@ -1,7 +1,8 @@
+#Application Form
 This is a simple full-stack web application for managing users.
 It allows you to add, view, edit, and delete users through a React frontend and a Spring Boot backend API.
 
-✅ Features
+#Features
 Add User: Add new users with details like name, email, and other information.
 
 View Users: List all users with their details.
@@ -12,7 +13,7 @@ Delete User: Remove users from the system.
 
 Error Handling: Graceful handling of scenarios like user not found.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 Backend:
 
 Spring Boot – REST API framework
@@ -35,7 +36,7 @@ CSS – Styling
 
 Fetch API – For HTTP requests
 
-🗃️ Project Structure
+#🗃️ Project Structure
 Backend (Java):
 
 FullStackBackendApplication.java – Main Spring Boot app entry point
@@ -68,7 +69,7 @@ index.js – React root file
 
 App.css & index.css – Styles
 
-⚙️ How to Run
+#⚙️ How to Run
 🚀 Backend
 Ensure you have Java 17+ and Maven installed.
 
