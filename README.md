@@ -53,13 +53,10 @@ It allows you to **add**, **view**, **edit**, and **delete** users through a **R
 - `App.css` & `index.css` – Styles
 
 ---
-
-## ⚙️ How to Run
-
-### 🚀 Backend
-
-1. Ensure you have **Java 17+** and **Maven** installed.
-2. Navigate to the backend folder.
-3. Run:
-   ```bash
-   mvn spring-boot:run
+###📝 API Endpoints
+ -`Method`	Endpoint	Description
+-`GET`	/users	Get all users
+-`GET`	/users/{id}	Get user by ID
+-`POST`	/users	Create a new user
+-`PUT`	/users/{id}	Update user by ID
+-`DELETE`	/users/{id}	Delete user by ID
