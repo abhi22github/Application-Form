@@ -20,13 +20,13 @@ It allows you to **add**, **view**, **edit**, and **delete** users through a **R
 ### Backend
 - **Spring Boot** – REST API framework
 - **Spring Data JPA** – ORM for database operations
-- **H2 Database** – In-memory DB for development
+- **SQL Database** – DB for development
 - **Lombok** – Reduces boilerplate code
 - **Maven** – Build tool
 
 ### Frontend
 - **React JS** – UI framework
-- **JavaScript (ES6+)**
+- **JavaScript **
 - **CSS** – Styling
 - **Fetch API** – For HTTP requests
 
